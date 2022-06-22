@@ -1,5 +1,5 @@
 # University
-#학교과제 저장소\n
+#학교과제 저장소
 #콘솔창
 
 echo "# University" >> README.md
